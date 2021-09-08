@@ -10,6 +10,33 @@ Images are from [Unsplash](https://unsplash.com)
 
 [Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
 
+## Features onprogress
+ * Custom photo feed 
+ * Post photo posts from camera or gallery
+   * Like posts
+   * Comment on posts
+        * View all comments on a post
+ * Search for users
+ * Realtime Messaging and Sending images
+ * Deleting Posts
+ * Profile Pages
+   * Change profile picture
+   * Change username
+   * Follow / Unfollow Users
+   * Change image view from grid layout to feed layout
+   * Add your own bio
+ * Notifications Feed showing recent likes / comments of your posts + new followers
+ * Swipe to delete notification
+ * Dark Mode Support
+ * Used Provider to manage state
+
+## Installation
+
+#### 1. [Setup Flutter](https://flutter.dev/docs/get-started/install)
+
+#### 2. Clone the repo
+
+#### 3. Setup the firebase app (onprogress)
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
